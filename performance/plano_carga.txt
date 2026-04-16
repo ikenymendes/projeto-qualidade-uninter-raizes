@@ -1,0 +1,1 @@
+Plano de testes de carga realizado com Apache JMeter. Simulação de 100 utilizadores simultâneos para validar o tempo de resposta do checkout (< 3s).
