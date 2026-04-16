@@ -1,4 +1,4 @@
-# Projeto Multidisciplinar - Qualidade de Software 🌵
+# Projeto Multidisciplinar - Qualidade de Software 
 ## Estudo de Caso: Rede Raízes do Nordeste
 
 Este repositório contém os artefatos de teste e garantia de qualidade para o sistema de gestão da franquia Raízes do Nordeste.
