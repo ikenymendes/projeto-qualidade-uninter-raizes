@@ -1,0 +1,1 @@
+Relatório de análise de vulnerabilidades realizado com OWASP ZAP. Foco em conformidade com a LGPD e segurança de dados de pagamento.
