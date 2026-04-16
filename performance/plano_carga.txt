@@ -1,1 +1,16 @@
-Plano de testes de carga realizado com Apache JMeter. Simulação de 100 utilizadores simultâneos para validar o tempo de resposta do checkout (< 3s).
+Estratégia de Teste de Performance - Raízes do Nordeste
+
+Objetivo: Validar o comportamento do sistema sob carga durante horários de pico (almoço e jantar).
+Configuração:
+
+Carga: 100 utilizadores simultâneos.
+
+Ramp-up: 60 segundos.
+
+Cenário: Acesso à página inicial, seleção de produto e simulação de checkout.
+KPIs (Indicadores):
+
+Tempo de resposta médio inferior a 3 segundos.
+
+Taxa de erro (Error %) inferior a 1%.
+Ferramenta: Apache JMeter.
