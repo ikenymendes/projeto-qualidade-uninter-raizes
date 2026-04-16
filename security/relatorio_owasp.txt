@@ -1,1 +1,11 @@
-Relatório de análise de vulnerabilidades realizado com OWASP ZAP. Foco em conformidade com a LGPD e segurança de dados de pagamento.
+Relatório de Auditoria de Segurança (Resumo)
+
+Ferramenta: OWASP ZAP (Zed Attack Proxy).
+Foco da Análise:
+
+SQL Injection: Verificação de filtros em campos de formulário para impedir acesso à base de dados.
+
+Cross-Site Scripting (XSS): Validação de inputs para evitar a execução de scripts maliciosos no navegador do cliente.
+
+Conformidade LGPD: Verificação de encriptação de dados sensíveis (CPF, dados de pagamento) em trânsito (HTTPS/TLS).
+Resultado: Identificação de riscos de nível baixo/médio, com recomendações de correção imediata nos headers de segurança do servidor.
